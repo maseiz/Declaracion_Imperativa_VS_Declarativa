@@ -1,0 +1,95 @@
+body{
+
+padding: 20px;
+margin: 0px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background: #ad5389;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.intro{
+    display: flex;
+    padding: 30px;
+    justify-content:center;
+   
+}
+h1{
+    width:max-content;
+    color:rgb(228, 143, 40);
+    padding-left: 40px;
+    border: #f0ebf3 solid;
+    border-width: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 30px;
+}
+p{
+    color:aliceblue;
+    text-align: justify;
+    padding: 0px 40px 0px 40px;
+   
+}
+ul{
+    color:aliceblue;
+}.vs{
+    text-transform: uppercase;
+}
+.paradigma1{
+    padding: 30px;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+}
+.imperativa{
+    display: flex;
+    position:absolute;
+    padding: 30px;
+    justify-content:left;
+    
+}
+.declarativa{
+    position: relative;
+    display: flex;
+    padding: 30px;
+    justify-content:right;
+    align-items: center;
+      
+}
+.cual{
+    padding: 30px;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+   
+}
+.codigo1{
+    
+    padding: 40px;
+}
+.codigo2{
+    
+    padding: 40px;
+}
+.conclusion{
+  
+    padding: 30px;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+   
+   
+}
+
+.end{
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    
+}
+.pie{
+    color: rgb(228, 143, 40);
+    font-size: x-small;
+    font-style: italic;
+    
+}
